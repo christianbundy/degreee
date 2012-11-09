@@ -1,4 +1,4 @@
 Degreee
 =======
 
-Stop breaking your neck trying to use [Dribbble](javascript:alert('test')).
+Stop breaking your neck trying to browse Dribbble.
