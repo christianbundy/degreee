@@ -1,4 +1,4 @@
-Degreee
+Degreee for Chrome
 =======
 
-Stop breaking your neck trying to browse Dribbble.
+An extension to automatically add spinning controls to Dribbble shots. Original: http://christianbundy.com/degreee.html
