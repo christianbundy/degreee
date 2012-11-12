@@ -1,0 +1,32 @@
+#degreee {
+	position: absolute;
+	bottom: 10px;
+	width : 100%;
+	margin: 0;
+	display: inline;
+}
+#degreee img {
+	transform: rotate(0);
+	display: inline;
+	opacity: 0.3;
+}
+#degreee a#left img {
+	margin-right: 20px;
+	-moz-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	transform: scaleX(-1);
+	-ms-filter: fliph;
+	filter: fliph;
+}
+.single-img {
+	position: relative;
+}
+
+.single-img:hover #degreee img {
+	opacity: 0.5;
+}
+
+.single-img #degreee a:hover img {
+	opacity: 0.7;
+}
