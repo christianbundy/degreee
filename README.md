@@ -4,7 +4,7 @@ Google Chrome extension that adds rotation controls to images to prevent Dribbbl
 
 ## How do I install it?
 
-[Download the packed extension](https://github.com/ChristianBundy/Degreee/downloads), and open it in Google Chrome. Degreee will only run on Dribbble.
+Download and install here: [Degreee](https://chrome.google.com/webstore/detail/degreee/gbknnandiahinnjaglpekdcnbjoaloho).
 
 ## How do I use it?
 
