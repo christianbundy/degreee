@@ -6,6 +6,7 @@ Google Chrome extension that adds rotation controls to images to prevent Dribbbl
 
 Download and install here: [Degreee](https://chrome.google.com/webstore/detail/degreee/gbknnandiahinnjaglpekdcnbjoaloho).
 
+
 ## How do I use it?
 
 Rotation controls are embedded in all individual Dribbble shots. Click for 1° of rotation, or hold it down for continuous rotation.
