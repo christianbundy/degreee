@@ -1,6 +1,6 @@
 # Degreee
 
-Google Chrome extension that adds rotation controls to images to prevent Dribbble-related neck injuries.
+Google Chrome extension that adds rotation controls to images to put an end to Dribbble-related neck injuries.
 
 ## How do I install it?
 

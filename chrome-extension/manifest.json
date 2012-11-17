@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Degreee",
-    "version": "1",
+    "version": "2",
     "description": "Put an end to Dribbble-related neck injuries.",
     "content_scripts": [ {
       "all_frames": true,
